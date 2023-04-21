@@ -13,7 +13,7 @@ var config = {
     title: 'London Marathon: More than Just a Race',
     subtitle: '26.2 miles, countless stories: the people who run for good causes',
     byline: 'By Marieta Marinova',
-    footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
+    footer: 'Source: created by Marieta Marinova  <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
     
         {
